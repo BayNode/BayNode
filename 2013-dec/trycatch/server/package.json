@@ -1,0 +1,10 @@
+{
+  "name": "trycatch-server",
+  "description": "sample trycatch server",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+    "trycatch": "~1.0.5"
+  }
+}
