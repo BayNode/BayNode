@@ -1,4 +1,4 @@
-Conquoring Asyncronous Context with CLS
+Conquering Asyncronous Context with CLS
 ===
 [Continuation-Local Storage](https://github.com/othiym23/node-continuation-local-storage) is changing the way we handle contextual information in Node.js. Instead of overloading the Connect/Express request object or passing a ton of parameters directly, we can now persist information across the life of a call-chain. This talk will introduce CLS, why it's cool, and hopefully show some quick examples of just how it works.
 
