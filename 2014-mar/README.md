@@ -2,6 +2,6 @@
 
 1. Ross Kukulinski (@rosskukulinski) - Optimizing Developer Workflows
 2. Adam Crabtree (@crabdude) - Async Generators
-3. TBD
+3. Akbar S. Ahmed (@akbar501)  - Unnest callbacks for readability and performance
 4. TBD
 
