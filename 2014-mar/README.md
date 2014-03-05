@@ -1,3 +1,20 @@
+##  Tuesday March 4th 2014 BayNode Node Hackers Learning Session
+
+"Node.js package management and module development"
+
+Food and beer sponsored by StrongLoop (http://strongloop.com)
+
+Hosted at Hacker Dojo
+599 Fairchild Dr
+Mountain View, CA 94043
+
+1. Tony Pujals (@subfuzion) - Introductions and news
+2. Adam Crabtree (@crabdude) - Introducing BayNode
+3. Shubhra Kar (StrongLoop) - Private npm; Performance Monitoring
+4. Tony Pujals (@subfuzion) - main presentation
+5. Open Discussion
+
+
 ##  Wedneday March 5th 2014 BayNode Lightning Talks
 
 Hosted By [ASTi Labs](http://www.asti-usa.com)  
