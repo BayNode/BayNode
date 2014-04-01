@@ -24,8 +24,10 @@ Silicon Valley Pad, 2nd Floor
 1370 Willow Rd  
 Menlo Park, CA 94025
 
-1. Ross Kukulinski (@rosskukulinski) - Optimizing Developer Workflows
+[Introduction Slides](http://www.slideshare.net/kuxman/baynode-march-lightning-talks)  
+
+1. Ross Kukulinski (@rosskukulinski) - [Slides](http://www.slideshare.net/kuxman/baynode-optimizing-developer-workflows) Optimizing Developer Workflows
 2. Adam Crabtree (@crabdude) - Async Generators
-3. Akbar S. Ahmed (@akbar501)  - Unnest callbacks for readability and performance
-4. Clarence Leung (@clarle) - Server-rendering Single Page Applications for Every Framework
+3. Akbar S. Ahmed (@akbar501)  - [Slides](http://www.slideshare.net/exponential_io/javascript-unnest-callbacks-and-method-declarations) Unnest callbacks for readability and performance
+4. Clarence Leung (@clarle) - [Slides] (https://speakerdeck.com/clarle/server-rendering-single-page-applications-for-every-framework) Server-rendering Single Page Applications for Every Framework
 
