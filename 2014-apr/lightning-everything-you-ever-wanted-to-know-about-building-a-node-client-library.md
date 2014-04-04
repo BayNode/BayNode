@@ -9,13 +9,13 @@ practices, testing, conventions, and more.
 
 ![Les Hazlewood's Avatar](https://stormpath.com/images/about/m2.png)
 
-Hi, I'm [Les](https://github.com/lhazlewood)! I'm a Java / node hacker, and CTO /
-co-founder of [Stormpath](https://stormpath.com/). I also created
+[Les](https://github.com/lhazlewood) is a Java / node hacker, and CTO /
+co-founder of [Stormpath](https://stormpath.com/).  He known for creating
 [Apache Shiro](http://shiro.apache.org/), one of the largest security frameworks
 in the Java world.
 
-So far, I've built the official [Stormpath Node SDK](https://github.com/stormpath/stormpath-sdk-node),
-and I'm looking forward to moving more and more of our internal Java services
-over to Node. &lt;3
+Les has built the official [Stormpath Node SDK](https://github.com/stormpath/stormpath-sdk-node),
+and is looking forward to moving more and more of Stormpath's internal Java services
+over to Node.
 
-You can find me on Twitter as: [@lhazlewood](https://twitter.com/lhazlewood)
+You can find Les on Twitter as: [@lhazlewood](https://twitter.com/lhazlewood)
