@@ -6,12 +6,12 @@ a();
 function a() {
     console.log('a');
     b();
-    
+
     // function b only available in function a scope
     function b() {
         console.log('b');
     }
-    
+
 }
 
 try {
@@ -23,19 +23,16 @@ try {
 console.log('closures');
 console.log('========');
 
-var outer = function () {
-    var name = 'Bob';
-    
+var outer = function (name) {
+    var _name = name;
+
     // inner functions have access to the outer context
-    var inner = function () {
-        console.log('name: ' + name);
+    return function () {
+        console.log('name: ' + _name);
     };
-    
 }
 
+var inner = outer('Alice');
 
-var f = outer.inner;
-
-f();
-
-
+console.log('should print Alice...');
+inner();

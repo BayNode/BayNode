@@ -1,0 +1,21 @@
+{
+  "name": "asyncdemo",
+  "version": "0.0.1",
+  "description": "Demo async.js",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "author": "Tony Pujals <tony@subfuzion.com> (http://twitter.com/subfuzion)",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^1.18.2"
+  },
+  "dependencies": {
+    "underscore": "^1.6.0",
+    "async": "^0.8.0"
+  }
+}
