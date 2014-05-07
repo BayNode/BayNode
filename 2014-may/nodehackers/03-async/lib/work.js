@@ -2,7 +2,6 @@ const low = 100;
 const high = 500;
 
 function randomMillis() {
-
   return Math.floor(Math.random() * (high - low + 1) + low);
 }
 
