@@ -1,0 +1,15 @@
+
+#  How Crittercism uses Node.js to service mobile economies of scale
+At Crittercism Inc., we service over 30K requests/second. Our ingest tier
+has seen an explosive growth over the last couple of years and receives
+events from a billion+ mobile devices ... see the pain points we faced
+and how we went about tackling these problems.
+
+## Speaker: &lt;Ram Ranganathan&gt;
+[ramr] (https://github.com/ramr)
+Ram is an Architect and code monkey at [Crittercism Inc.] (https://www.crittercism.com).
+A systems engineer who got hooked onto Node a few years back whilst
+building out a web[sockets] proxy for a PaaS offering
+(https://github.com/openshift/origin-server/tree/master/node-proxy)
+
+![ramr's avatar](https://www.gravatar.com/avatar/35c17ca7e729a8b5810088b62bc72643.png)
