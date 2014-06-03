@@ -8,7 +8,7 @@ Silicon Valley Pad, 2nd Floor
 Menlo Park, CA 94025
 
 
-1. TBD (We'd love to hear you talk!)
+1. [Ryan X. Charles](https://github.com/ryanxcharles) - Bitcore: BitPay's Open-Source Javascript Bitcoin Library for Building Transactions and Everything Else
 2. TBD (We'd love to hear you talk!)
 3. TBD (We'd love to hear you talk!)
 4. TBD (We'd love to hear you talk!)
