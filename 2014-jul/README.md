@@ -1,7 +1,7 @@
-##  Thursday July 31th 2014 BayNode Talks
+##  Thursday July 24th 2014 BayNode Talks
 
 Hosted By [ASTi Labs](http://www.asti-usa.com)  
-Thursday July 31th, 7pm
+Thursday July 24th, 7pm
 
 Silicon Valley Pad, 2nd Floor  
 1370 Willow Rd  
