@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+
+var path = require('path');
+var traceur = require('traceur');
+traceur.options.blockBinding = true;
+traceur.require.makeDefault(Boolean);
+
+var indexPath = process.argv[2] || 'index';
+require('.' + path.sep + indexPath);
