@@ -13,4 +13,4 @@ Learn more at [synthjs.com](http://synthjs.com)
 
 [Github Profile](https://github.com/JonAbrams)
 
-Jon Abrams is the creator of Synth. It's still pretty new and is looking
+Jon Abrams is the creator of Synth. He's also the lead platform engineer @ OUYA. In his spare time he collects pinball machines and plays them competitively.
