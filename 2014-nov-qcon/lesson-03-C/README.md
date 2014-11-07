@@ -1,1 +1,0 @@
-Simple Express app with a popular middleware for serving static files.

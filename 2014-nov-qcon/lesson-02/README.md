@@ -1,1 +1,0 @@
-Simple Node.js http server that reads index.html from the file system.

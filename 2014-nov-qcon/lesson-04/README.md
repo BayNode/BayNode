@@ -1,1 +1,0 @@
-Simple Express app that responds with 'hello world' but only handles one route (/).
