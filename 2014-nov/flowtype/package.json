@@ -1,0 +1,11 @@
+{
+  "name": "baynode-flowtype",
+  "main": "index.js",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node --harmony index.js"
+  },
+  "dependencies": {
+    "lodash": "^1.3.1"
+  }
+}
