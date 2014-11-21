@@ -2,11 +2,15 @@
 
 // http
 declare module http {
-  declare function createServer(callback?: (req: httpIncomingMessage, res: httpServerResponse) => void): httpServer
+  declare function createServer(
+    callback?: (req: httpIncomingMessage, res: httpServerResponse) => void
+  ): httpServer
 }
 
 declare class httpServer {
-  listen(port?: number, callback?: (err?: Error, value?: any) => void): httpServer
+  listen(
+    port?: number, callback?: (err?: Error, value?: any) => void
+  ): httpServer
 }
 
 declare class httpIncomingMessage {

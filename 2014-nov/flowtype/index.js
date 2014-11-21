@@ -1,6 +1,6 @@
+/* @flow */
 var http = require('http')
 var fs = require('fs')
-var _ = require('lodash')
 
 var routes = {
   readFile: function(req, res) {
@@ -14,9 +14,10 @@ var routes = {
   }
 }
 
-http.createServer(function handler(req, res) {
+var server = http.createServer(function handler(req, res) {
   routes[req.url.slice(1)](req, res)
-}).listen(8000, function() {
+});
+server.listen(8000, function() {
   console.log('Server listening at http://127.0.0.1:8000')
 })
 
