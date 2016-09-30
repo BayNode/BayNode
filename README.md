@@ -22,6 +22,7 @@ ___
 * Other social profiles or personal blog (optional)
 * Url to slides or github (either now or can be posted in meetup comments later)
 * Add the `proposal` label to your issue
+
 <!--
 * See [past](https://github.com/baynode/sfnode/issues/4) [proposals](https://github.com/sfnode/sfnode/issues/3) [for](https://github.com/sfnode/sfnode/issues/2) [examples](https://github.com/sfnode/sfnode/issues/1)
 -->
