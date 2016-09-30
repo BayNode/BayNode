@@ -1,3 +1,5 @@
+[Submit an issue](http://github.com/baynode/baynode/issues) with the following content (using this file as a template):
+
 # Request a talk!
 
 Please include the following format:
@@ -9,8 +11,7 @@ Whatever interests you and is possibly relevant to Node.js
 Lightning talk, longform talk, workshop?
 
 ## Suggested Speaker
-Please be kind. If you know someone who would really rock at this, ping them first unless
-  they have already explicitly stated they would love to share. Let's not troll anyone.
+Name, email, Twitter, LinkedIn, GitHub, etc...
 
 ## Miscellaneous info
 Any comments or context you'd like to share regarding this talk request.
