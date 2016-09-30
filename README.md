@@ -1,7 +1,7 @@
 BayNode
 =======
 
-The Silicon Valley's very own node.js meetup group. [@Baynode_](https://twitter.com/BayNode_)
+The Silicon Valley's very own node.js meetup group. [@BayNode_](https://twitter.com/BayNode_)
 
 ### Submit talks by [submitting an issue](http://github.com/baynode/baynode/issues)
 
